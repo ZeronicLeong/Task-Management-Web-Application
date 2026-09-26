@@ -1,0 +1,49 @@
+Sumairu Dental Lab Task Management System
+
+IMPORTANT ORDER:
+
+1. Create:
+C:\SumairuDentalLab
+
+2. Read:
+Sumairu_Dental_Lab_Installation_Manual.docx
+
+3. Install Visual Studio:
+Visual Studio Installation Guide.docx
+
+4. Setup database:
+Run:
+JoseTaskManager_Setup.sql
+
+5. Open application:
+Open the Visual Studio project
+
+6. Configure network access:
+Follow Section 7-9 in installation manual
+
+7. Test:
+Admin login
+Staff login
+Task creation
+Photo upload
+History
+PDF export
+
+
+Do not open the project before completing Visual Studio installation.
+
+SQL FILE NAME
+Sumairu Dental Lab System
+│
+├── Application Source Code
+│
+├── Database
+│   └── JoseTaskManager_Setup.sql
+│
+├── Documentation
+│   ├── Sumairu_Dental_Lab_Installation_Manual.docx
+│   ├── Visual Studio Installation Guide.docx
+│
+├── Example_Report.pdf
+│
+└── SumairuDentalLab
